@@ -1,0 +1,8 @@
+Respuesta,Diferencia_RMSE_corregida_menos_original,Diferencia_MAE_corregida_menos_original,Equivalencia_RMSE,Equivalencia_MAE,Interpretacion
+Macollas,1.7763568394002505e-15,2.1094237467877974e-15,TRUE,TRUE,Resultados numéricamente equivalentes
+Altura,6.217248937900877e-15,8.881784197001252e-15,TRUE,TRUE,Resultados numéricamente equivalentes
+Diametro,-2.220446049250313e-16,-4.440892098500626e-16,TRUE,TRUE,Resultados numéricamente equivalentes
+NDVI,2.6020852139652106e-17,2.0816681711721685e-17,TRUE,TRUE,Resultados numéricamente equivalentes
+Nitratos,9.094947017729282e-13,1.4779288903810084e-12,TRUE,TRUE,Resultados numéricamente equivalentes
+Potasio_savia,3.979039320256561e-13,0,TRUE,TRUE,Resultados numéricamente equivalentes
+Calcio_savia,-5.684341886080801e-13,-4.547473508864641e-13,TRUE,TRUE,Resultados numéricamente equivalentes

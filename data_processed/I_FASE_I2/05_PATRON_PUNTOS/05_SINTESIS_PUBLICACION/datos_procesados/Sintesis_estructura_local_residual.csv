@@ -1,0 +1,16 @@
+Variable,LISA_n_estables,LISA_porcentaje_estable,Gi_n_estables,Gi_porcentaje_estable,Nodos_LISA_clasificados,Nodos_Gi_clasificados,Evidencia_local_residual,Advertencia,Variable_etiqueta,Grupo,Nodos_locales_residuales
+Suelo_CE,38,67.85714285714286,35,62.5,10,16,Estructura local residual relevante,Variable interpolada mediante Kriging,Soil EC,Suelo,26
+Suelo_K,37,66.07142857142857,37,66.07142857142857,8,16,Estructura local residual relevante,Índice instrumental nominal,Soil K index,Suelo,24
+Suelo_CE_corregida_OLS,38,67.85714285714286,36,64.28571428571429,8,15,Estructura local residual relevante,CE corregida mediante calibración exploratoria,OLS-corrected soil EC,Suelo,23
+Suelo_T,50,89.28571428571429,49,87.5,9,14,Estructura local residual relevante,Variable interpolada mediante Kriging,Soil temperature,Suelo,23
+Suelo_P,39,69.64285714285714,35,62.5,10,12,Estructura local residual relevante,Índice instrumental nominal,Soil P index,Suelo,22
+Suelo_N,37,66.07142857142857,38,67.85714285714286,9,12,Estructura local residual relevante,Índice instrumental nominal,Soil N index,Suelo,21
+NDVI,43,76.78571428571429,46,82.14285714285714,7,10,Estructura local residual relevante,Variable observada del cultivo,NDVI,Cultivo,17
+Potasio_savia,45,80.35714285714286,41,73.21428571428571,3,5,Estructura local residual relevante,Variable observada del cultivo,Sap potassium,Cultivo,8
+Macollas,48,85.71428571428571,44,78.57142857142857,3,4,Estructura local residual limitada,Variable observada del cultivo,Tillers,Cultivo,7
+Suelo_pH,38,67.85714285714286,34,60.71428571428571,4,2,Estructura local residual limitada,pH exploratorio por validación limitada,Soil pH,Suelo,6
+Diametro,50,89.28571428571429,53,94.64285714285714,3,2,Estructura local residual limitada,Variable observada del cultivo,Stem diameter,Cultivo,5
+Suelo_Hv,54,96.42857142857143,51,91.07142857142857,2,1,Estructura local residual limitada,Hv con estructura espacial débil,Soil moisture index,Suelo,3
+Altura,49,87.5,48,85.71428571428571,1,1,Estructura local residual limitada,Variable observada del cultivo,Plant height,Cultivo,2
+Calcio_savia,38,67.85714285714286,32,57.14285714285714,2,0,Estructura local residual limitada,Variable observada del cultivo,Sap calcium,Cultivo,2
+Nitratos,52,92.85714285714286,50,89.28571428571429,1,0,Estructura local residual limitada,Variable observada del cultivo,Sap nitrate,Cultivo,1

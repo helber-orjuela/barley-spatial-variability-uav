@@ -1,0 +1,11 @@
+Parametro,Valor
+Archivo referencia,Centro-Agropecuario-Marengo-14-11-2023-orthophoto.tif
+Archivo móvil,Centro-Agropecuario-Marengo-9-11-2023-orthophoto.tif
+DX óptimo (m),1.25
+DY óptimo (m),-1.5
+Correlación óptima,0.830820539721415
+RMSE óptimo,0.178120687915648
+Rango máximo buscado (m),5
+Paso de búsqueda (m),0.25
+Resolución de búsqueda (m),0.25
+CRS objetivo,EPSG:32618

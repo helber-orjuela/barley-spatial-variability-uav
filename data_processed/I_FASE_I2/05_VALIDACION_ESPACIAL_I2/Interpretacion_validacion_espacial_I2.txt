@@ -1,0 +1,27 @@
+VALIDACIÓN ESPACIAL EXPLORATORIA DE SUELO – I2
+================================================
+
+Se validaron 8 variables mediante leave-one-out cross-validation (LOOCV).
+No se utilizaron p-valores como criterio de desempeño. La interpretación se fundamentó en la magnitud del error, la concordancia, la correlación, el RPD, el NSE y la calibración de la incertidumbre mediante MSNE.
+
+T: RMSE=0.256; MAE=0.222; NRMSE(rango)=11.7%; RPD=2.24; NSE=0.79; Spearman=0.85; CCC=0.89; MSNE=1.16. Clasificación: Aceptable exploratorio.
+N: RMSE=5.501; MAE=4.531; NRMSE(rango)=25%; RPD=1.08; NSE=0.1; Spearman=0.42; CCC=0.35; MSNE=1.42. Clasificación: Limitado.
+pH: RMSE=0.664; MAE=0.559; NRMSE(rango)=27.3%; RPD=1.36; NSE=0.44; Spearman=0.63; CCC=0.57; MSNE=0.89. Clasificación: Limitado.
+P: RMSE=7.873; MAE=6.471; NRMSE(rango)=26.2%; RPD=1.06; NSE=0.09; Spearman=0.42; CCC=0.33; MSNE=1.45. Clasificación: Limitado.
+Hv: RMSE=2.173; MAE=1.635; NRMSE(rango)=21.7%; RPD=0.98; NSE=-0.08; Spearman=-1; CCC=-0.07; MSNE=0.96. Clasificación: Deficiente.
+K: RMSE=15.77; MAE=13.055; NRMSE(rango)=25.9%; RPD=1.06; NSE=0.08; Spearman=0.38; CCC=0.32; MSNE=1.43. Clasificación: Limitado.
+CE: RMSE=79.241; MAE=65.315; NRMSE(rango)=26.5%; RPD=1.06; NSE=0.07; Spearman=0.38; CCC=0.32; MSNE=1.47. Clasificación: Limitado.
+CE_corregida_OLS: RMSE=73.718; MAE=60.763; NRMSE(rango)=26.5%; RPD=1.06; NSE=0.07; Spearman=0.38; CCC=0.32; MSNE=1.47. Clasificación: Limitado.
+
+COMPARACIÓN DE CE
+-----------------
+La CE corregida modificó el RMSE LOOCV en 7% respecto a la CE original.
+La modificación del MAE fue de 7%.
+Como la corrección OLS es lineal, la geometría del patrón espacial se conserva; cambian principalmente la escala, la magnitud del error y la varianza expresada en las nuevas unidades.
+
+ADVERTENCIAS
+------------
+N, P y K deben interpretarse como índices instrumentales nominales y no como determinaciones químicas independientes.
+El pH se conserva como diagnóstico exploratorio debido a su falta de concordancia frente al laboratorio.
+La incertidumbre de la calibración OLS no está incorporada dentro de la varianza de Kriging.
+Los resultados son específicos del lote, el sensor, la campaña I2 y el tamaño muestral disponible.

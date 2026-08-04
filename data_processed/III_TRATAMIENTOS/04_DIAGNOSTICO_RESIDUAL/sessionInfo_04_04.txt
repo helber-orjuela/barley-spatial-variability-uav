@@ -1,0 +1,53 @@
+R version 4.3.3 (2024-02-29 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Spanish_Mexico.utf8  LC_CTYPE=Spanish_Mexico.utf8   
+[3] LC_MONETARY=Spanish_Mexico.utf8 LC_NUMERIC=C                   
+[5] LC_TIME=Spanish_Mexico.utf8    
+
+time zone: America/Bogota
+tzcode source: internal
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] spdep_1.4-1        spData_2.3.4       performance_0.17.1 sandwich_3.0-2    
+ [5] emmeans_1.8.9      effectsize_1.0.3   car_3.1-2          carData_3.0-5     
+ [9] broom_1.0.13       stringr_1.5.0      scales_1.4.0       gstat_2.1-1       
+[13] sf_1.0-21          e1071_1.7-13       purrr_1.2.2        tidyr_1.3.2       
+[17] readr_2.1.5        janitor_2.2.1      patchwork_1.2.0    boot_1.3-29       
+[21] mcr_1.3.3.1        robslopes_1.1.3    DescTools_0.99.58  yardstick_1.4.0   
+[25] ggplot2_4.0.3      dplyr_1.2.1        writexl_1.5.1      readxl_1.4.5      
+
+loaded via a namespace (and not attached):
+ [1] DBI_1.1.3          deldir_2.0-4       gld_2.6.6          s2_1.1.4          
+ [5] rlang_1.2.0        magrittr_2.0.3     multcomp_1.4-25    snakecase_0.11.1  
+ [9] compiler_4.3.3     mgcv_1.9-1         systemfonts_1.2.1  vctrs_0.7.3       
+[13] wk_0.9.0           pkgconfig_2.0.3    crayon_1.5.2       fastmap_1.2.0     
+[17] backports_1.4.1    labeling_0.4.3     utf8_1.2.4         rmarkdown_2.25    
+[21] tzdb_0.4.0         haven_2.5.4        ragg_1.3.3         bit_4.0.5         
+[25] xfun_0.41          LearnBayes_2.15.1  R6_2.5.1           stringi_1.7.12    
+[29] RColorBrewer_1.1-3 estimability_1.4.1 lubridate_1.9.5    cellranger_1.1.0  
+[33] stars_0.6-4        Rcpp_1.0.11        knitr_1.45         zoo_1.8-12        
+[37] parameters_0.29.2  FNN_1.1.3.2        igraph_2.0.3       Matrix_1.6-5      
+[41] splines_4.3.3      timechange_0.4.0   tidyselect_1.2.1   rstudioapi_0.18.0 
+[45] abind_1.4-5        yaml_2.3.7         codetools_0.2-19   lattice_0.22-5    
+[49] tibble_3.2.1       intervals_0.15.4   withr_2.5.2        bayestestR_0.18.1 
+[53] S7_0.2.2           coda_0.19-4.1      evaluate_0.23      survival_3.8-3    
+[57] units_0.8-4        proxy_0.4-27       isoband_0.2.7      xts_0.13.1        
+[61] pillar_1.11.1      KernSmooth_2.23-22 insight_1.5.2      dbscan_1.2.3      
+[65] generics_0.1.3     vroom_1.6.5        sp_2.1-1           spacetime_1.3-0   
+[69] hms_1.1.3          rootSolve_1.8.2.4  xtable_1.8-4       class_7.3-22      
+[73] glue_1.6.2         spatialreg_1.4-2   lmom_3.2           tools_4.3.3       
+[77] data.table_1.15.0  forcats_1.0.0      Exact_3.3          mvtnorm_1.2-3     
+[81] grid_4.3.3         datawizard_1.3.1   nlme_3.1-164       cli_3.6.1         
+[85] textshaping_1.0.0  expm_1.0-0         gtable_0.3.6       digest_0.6.33     
+[89] classInt_0.4-10    TH.data_1.1-2      farver_2.1.1       htmltools_0.5.8.1 
+[93] lifecycle_1.0.5    httr_1.4.7         bit64_4.0.5        MASS_7.3-60.0.1   

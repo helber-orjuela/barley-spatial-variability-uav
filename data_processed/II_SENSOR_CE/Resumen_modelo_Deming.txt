@@ -1,0 +1,22 @@
+
+
+------------------------------------------
+
+Reference method: Method1
+Test method:     Method2
+Number of data points: 28
+
+------------------------------------------
+
+The confidence intervals are calculated with analytical method.
+Confidence level: 95%
+Error ratio: 1
+
+------------------------------------------
+
+DEMING REGRESSION FIT:
+
+                  EST          SE          LCI        UCI
+Intercept -150.261625 229.8277999 -622.6794331 322.156184
+Slope        1.484078   0.2948715    0.8779607   2.090195
+NULL

@@ -1,0 +1,7 @@
+Escenario,Covariables,Uso,Advertencia
+M2_CE_original,Suelo_CE + Suelo_T,Escenario principal con CE sin calibrar,No combinar con CE corregida
+M2_CE_corregida,Suelo_CE_corregida_OLS + Suelo_T,Sensibilidad con CE corregida OLS,No combinar con CE original
+M2_Indice_N,Suelo_N + Suelo_T,Índice N evaluado por separado,Índice instrumental nominal
+M2_Indice_P,Suelo_P + Suelo_T,Índice P evaluado por separado,Índice instrumental nominal
+M2_Indice_K,Suelo_K + Suelo_T,Índice K evaluado por separado,Índice instrumental nominal
+M2_Exploratorio_pH_T_Hv,Suelo_pH + Suelo_T + Suelo_Hv,Escenario exploratorio,pH y Hv con validación limitada

@@ -1,0 +1,7 @@
+Seccion,Texto
+Aporte general del suelo,"The addition of kriged soil covariates did not improve all crop responses. Improvements were selective and generally small, indicating that the treatment structure remained the main source of predictive information."
+NDVI,"For NDVI, the model including the nominal soil K index and soil temperature reduced LOOCV RMSE and MAE. However, positive residual spatial autocorrelation remained, so the improvement should be interpreted as exploratory rather than definitive."
+Potasio en savia,"For sap potassium, the model including the nominal soil P index and soil temperature reduced both LOOCV errors and the absolute magnitude of residual Moran's I, providing the most internally consistent integrated signal."
+CE original y corregida,Models based on original and OLS-corrected EC were numerically equivalent because the correction was a linear transformation. The correction changes measurement scale but not spatial order.
+Validación por repetición,Leave-one-replication-out validation was not evaluable under the current parameterization because replication was included as a fixed predictor and the excluded level was absent from the training data.
+Alcance metodológico,"Soil N, P, and K values are nominal instrumental indices and must not be interpreted as validated nutrient concentrations. All soil covariates at crop nodes were obtained from kriging."

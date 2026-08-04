@@ -1,0 +1,57 @@
+Variable_1,Variable_2,Correlacion,Metodo,Magnitud,Categoria
+Suelo_CE_corregida_OLS,Suelo_CE,1,Pearson,1,Redundancia muy alta
+Suelo_K,Suelo_CE_corregida_OLS,0.9997355913216368,Pearson,0.9997355913216368,Redundancia muy alta
+Suelo_K,Suelo_CE,0.9997355913216367,Pearson,0.9997355913216367,Redundancia muy alta
+Suelo_P,Suelo_CE,0.9996243725171328,Pearson,0.9996243725171328,Redundancia muy alta
+Suelo_P,Suelo_CE_corregida_OLS,0.9996243725171327,Pearson,0.9996243725171327,Redundancia muy alta
+Suelo_K,Suelo_P,0.9993883657053187,Pearson,0.9993883657053187,Redundancia muy alta
+Suelo_N,Suelo_CE_corregida_OLS,0.9991122800218245,Pearson,0.9991122800218245,Redundancia muy alta
+Suelo_N,Suelo_CE,0.9991122800218243,Pearson,0.9991122800218243,Redundancia muy alta
+Suelo_K,Suelo_N,0.9990787526427138,Pearson,0.9990787526427138,Redundancia muy alta
+Suelo_P,Suelo_N,0.9989563624242603,Pearson,0.9989563624242603,Redundancia muy alta
+Suelo_pH,Suelo_P,0.24392342469924846,Pearson,0.24392342469924846,Asociación limitada
+Suelo_pH,Suelo_K,0.2396699820511506,Pearson,0.2396699820511506,Asociación limitada
+Suelo_pH,Suelo_N,0.23795482114225186,Pearson,0.23795482114225186,Asociación limitada
+Suelo_pH,Suelo_CE_corregida_OLS,0.23475762065755534,Pearson,0.23475762065755534,Asociación limitada
+Suelo_pH,Suelo_CE,0.2347576206575512,Pearson,0.2347576206575512,Asociación limitada
+Suelo_T,Suelo_N,0.21622566187572803,Pearson,0.21622566187572803,Asociación limitada
+Suelo_T,Suelo_CE_corregida_OLS,0.20528759062040974,Pearson,0.20528759062040974,Asociación limitada
+Suelo_T,Suelo_CE,0.20528759062040755,Pearson,0.20528759062040755,Asociación limitada
+Suelo_T,Suelo_K,0.2049416562758333,Pearson,0.2049416562758333,Asociación limitada
+Suelo_T,Suelo_P,0.2006662152646849,Pearson,0.2006662152646849,Asociación limitada
+Suelo_Hv,Suelo_K,0.14608486310996696,Pearson,0.14608486310996696,Asociación débil
+Suelo_Hv,Suelo_P,0.1440965359622631,Pearson,0.1440965359622631,Asociación débil
+Suelo_Hv,Suelo_CE,0.1425159612455748,Pearson,0.1425159612455748,Asociación débil
+Suelo_Hv,Suelo_CE_corregida_OLS,0.14251596124556856,Pearson,0.14251596124556856,Asociación débil
+Suelo_Hv,Suelo_N,0.13925357836059918,Pearson,0.13925357836059918,Asociación débil
+Suelo_Hv,Suelo_T,-0.11802072387121514,Pearson,0.11802072387121514,Asociación débil
+Suelo_T,Suelo_pH,0.09131981802383932,Pearson,0.09131981802383932,Asociación débil
+Suelo_Hv,Suelo_pH,-0.053137112528340205,Pearson,0.053137112528340205,Asociación débil
+Suelo_CE_corregida_OLS,Suelo_CE,1,Spearman,1,Redundancia muy alta
+Suelo_K,Suelo_CE,0.9994531784005469,Spearman,0.9994531784005469,Redundancia muy alta
+Suelo_K,Suelo_CE_corregida_OLS,0.9994531784005469,Spearman,0.9994531784005469,Redundancia muy alta
+Suelo_K,Suelo_P,0.999384825700615,Spearman,0.999384825700615,Redundancia muy alta
+Suelo_P,Suelo_CE,0.9991797676008204,Spearman,0.9991797676008204,Redundancia muy alta
+Suelo_P,Suelo_CE_corregida_OLS,0.9991797676008204,Spearman,0.9991797676008204,Redundancia muy alta
+Suelo_K,Suelo_N,0.9991114149008885,Spearman,0.9991114149008885,Redundancia muy alta
+Suelo_P,Suelo_N,0.9989747095010254,Spearman,0.9989747095010254,Redundancia muy alta
+Suelo_N,Suelo_CE,0.998838004101162,Spearman,0.998838004101162,Redundancia muy alta
+Suelo_N,Suelo_CE_corregida_OLS,0.998838004101162,Spearman,0.998838004101162,Redundancia muy alta
+Suelo_T,Suelo_N,0.2693096377306904,Spearman,0.2693096377306904,Asociación limitada
+Suelo_T,Suelo_K,0.26261107313738896,Spearman,0.26261107313738896,Asociación limitada
+Suelo_T,Suelo_P,0.26042378673957617,Spearman,0.26042378673957617,Asociación limitada
+Suelo_T,Suelo_CE,0.26015037593984963,Spearman,0.26015037593984963,Asociación limitada
+Suelo_T,Suelo_CE_corregida_OLS,0.26015037593984963,Spearman,0.26015037593984963,Asociación limitada
+Suelo_pH,Suelo_P,0.22453861927546137,Spearman,0.22453861927546137,Asociación limitada
+Suelo_Hv,Suelo_N,0.21968557758031443,Spearman,0.21968557758031443,Asociación limitada
+Suelo_pH,Suelo_K,0.21934381408065617,Spearman,0.21934381408065617,Asociación limitada
+Suelo_pH,Suelo_N,0.2171565276828435,Spearman,0.2171565276828435,Asociación limitada
+Suelo_Hv,Suelo_CE,0.21469583048530416,Spearman,0.21469583048530416,Asociación limitada
+Suelo_Hv,Suelo_CE_corregida_OLS,0.21469583048530416,Spearman,0.21469583048530416,Asociación limitada
+Suelo_pH,Suelo_CE,0.21435406698564594,Spearman,0.21435406698564594,Asociación limitada
+Suelo_pH,Suelo_CE_corregida_OLS,0.21435406698564594,Spearman,0.21435406698564594,Asociación limitada
+Suelo_Hv,Suelo_P,0.21120984278879015,Spearman,0.21120984278879015,Asociación limitada
+Suelo_Hv,Suelo_K,0.21114149008885852,Spearman,0.21114149008885852,Asociación limitada
+Suelo_Hv,Suelo_pH,-0.14846206425153793,Spearman,0.14846206425153793,Asociación débil
+Suelo_Hv,Suelo_T,0.10813397129186603,Spearman,0.10813397129186603,Asociación débil
+Suelo_T,Suelo_pH,0.1004101161995899,Spearman,0.1004101161995899,Asociación débil

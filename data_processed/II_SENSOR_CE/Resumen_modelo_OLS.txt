@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = CE_lab_uS_cm ~ CE_sensor_uS_cm, data = ce_eval)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-341.43 -156.97   34.89   96.64  525.58 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     266.6932   144.0685   1.851   0.0755 .  
+CE_sensor_uS_cm   0.9303     0.1848   5.033 3.08e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 197.1 on 26 degrees of freedom
+Multiple R-squared:  0.4935,	Adjusted R-squared:  0.474 
+F-statistic: 25.33 on 1 and 26 DF,  p-value: 3.081e-05
+

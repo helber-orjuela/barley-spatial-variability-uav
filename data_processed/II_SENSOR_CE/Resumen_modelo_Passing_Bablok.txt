@@ -1,0 +1,22 @@
+
+
+------------------------------------------
+
+Reference method: Method1
+Test method:     Method2
+Number of data points: 28
+
+------------------------------------------
+
+The confidence intervals are calculated with analytical method.
+Confidence level: 95%
+
+
+------------------------------------------
+
+PASSING-BABLOK REGRESSION FIT:
+
+                  EST SE          LCI UCI
+Intercept -945.252690 NA -5610.000000 -65
+Slope        2.632693 NA     1.428571  10
+NULL

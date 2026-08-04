@@ -1,0 +1,15 @@
+Respuesta,Modelo_ID,Tipo_modelo,n,RMSE,MAE,Sesgo,Cor_Pearson,Cor_Spearman
+Macollas,M1_Tratamientos,M1,0,NA,NA,NA,NA,NA
+Altura,M1_Tratamientos,M1,0,NA,NA,NA,NA,NA
+Diametro,M1_Tratamientos,M1,0,NA,NA,NA,NA,NA
+NDVI,M1_Tratamientos,M1,0,NA,NA,NA,NA,NA
+Nitratos,M1_Tratamientos,M1,0,NA,NA,NA,NA,NA
+Potasio_savia,M1_Tratamientos,M1,0,NA,NA,NA,NA,NA
+Calcio_savia,M1_Tratamientos,M1,0,NA,NA,NA,NA,NA
+Altura,M2_Exploratorio_pH_T_Hv,Mejor_M2,0,NA,NA,NA,NA,NA
+Calcio_savia,M2_CE_corregida,Mejor_M2,0,NA,NA,NA,NA,NA
+Diametro,M2_Indice_N,Mejor_M2,0,NA,NA,NA,NA,NA
+Macollas,M2_Exploratorio_pH_T_Hv,Mejor_M2,0,NA,NA,NA,NA,NA
+NDVI,M2_Indice_K,Mejor_M2,0,NA,NA,NA,NA,NA
+Nitratos,M2_Indice_N,Mejor_M2,0,NA,NA,NA,NA,NA
+Potasio_savia,M2_Indice_P,Mejor_M2,0,NA,NA,NA,NA,NA

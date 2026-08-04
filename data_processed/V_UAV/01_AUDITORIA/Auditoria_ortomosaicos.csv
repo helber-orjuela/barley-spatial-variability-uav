@@ -1,0 +1,3 @@
+Fecha,Archivo,Capas,Filas,Columnas,Resolucion_X,Resolucion_Y,X_min,X_max,Y_min,Y_max,CRS,Tiene_CRS
+09,Centro-Agropecuario-Marengo-9-11-2023-orthophoto.tif,4,5175,5274,0.01999999999999647,0.01999999962762844,587137.325529,587242.805529,517513.8488039624,517617.3488020354,+proj=utm +zone=18 +datum=WGS84 +units=m +no_defs,TRUE
+14,Centro-Agropecuario-Marengo-14-11-2023-orthophoto.tif,4,4919,5008,0.019996180481268295,0.019999999805415305,587142.1675821845,587242.3084540347,517518.63128597545,517617.0112850183,+proj=utm +zone=18 +datum=WGS84 +units=m +no_defs,TRUE

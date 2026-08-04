@@ -1,0 +1,11 @@
+Variable_1,Variable_2,Correlacion,Metodo,Magnitud,Categoria,Recomendacion
+Suelo_CE_corregida_OLS,Suelo_CE,1,Spearman,1,Redundancia muy alta,No incluir CE original y corregida en el mismo modelo
+Suelo_K,Suelo_CE,0.9994531784005469,Spearman,0.9994531784005469,Redundancia muy alta,Evitar inclusión simultánea sin justificación
+Suelo_K,Suelo_CE_corregida_OLS,0.9994531784005469,Spearman,0.9994531784005469,Redundancia muy alta,Evitar inclusión simultánea sin justificación
+Suelo_K,Suelo_P,0.999384825700615,Spearman,0.999384825700615,Redundancia muy alta,"Evaluar N, P y K en modelos alternativos separados"
+Suelo_P,Suelo_CE,0.9991797676008204,Spearman,0.9991797676008204,Redundancia muy alta,Evitar inclusión simultánea sin justificación
+Suelo_P,Suelo_CE_corregida_OLS,0.9991797676008204,Spearman,0.9991797676008204,Redundancia muy alta,Evitar inclusión simultánea sin justificación
+Suelo_K,Suelo_N,0.9991114149008885,Spearman,0.9991114149008885,Redundancia muy alta,"Evaluar N, P y K en modelos alternativos separados"
+Suelo_P,Suelo_N,0.9989747095010254,Spearman,0.9989747095010254,Redundancia muy alta,"Evaluar N, P y K en modelos alternativos separados"
+Suelo_N,Suelo_CE,0.998838004101162,Spearman,0.998838004101162,Redundancia muy alta,Evitar inclusión simultánea sin justificación
+Suelo_N,Suelo_CE_corregida_OLS,0.998838004101162,Spearman,0.998838004101162,Redundancia muy alta,Evitar inclusión simultánea sin justificación
