@@ -1,0 +1,52 @@
+# R and RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Temporary and backup files
+~$*
+*.tmp
+*.temp
+*.bak
+*.log
+Thumbs.db
+.DS_Store
+
+# Large raster and geospatial products
+*.tif
+*.tiff
+*.ovr
+*.aux.xml
+
+# Large R objects and caches
+*.RData
+*.rda
+*.rds
+cache/
+temp/
+tmp/
+
+# Manuscript working files
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Compressed archives
+*.zip
+*.rar
+*.7z
+
+# Python environments, if generated
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local paths or credentials
+.env
+.env.*
+credentials*
+secrets*
