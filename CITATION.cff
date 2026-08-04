@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Barley spatial variability and UAV analysis"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: "Orjuela-Matta"
+    given-names: "Helber Milton"
+    email: "horjuela@udca.edu.co"
+
+  - family-names: "Mendoza-Castiblanco"
+    given-names: "Christian José"
+    email: "cjmendozac@unal.edu.co"
+
+  - family-names: "Monsalve-Camacho"
+    given-names: "Oscar Iván"
+    email: "omonsalve@udca.edu.co"
+
+  - family-names: "Gómez Sánchez"
+    given-names: "Manuel Iván"
+    email: "igomezm@unal.edu.co"
+
+  - family-names: "Guerrero Piracoca"
+    given-names: "Yecid Fernando"
+    email: "yfguerrerop@unal.edu.co"
+
+repository-code: "https://github.com/helber-orjuela/barley-spatial-variability-uav"
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: 2026-08-04
