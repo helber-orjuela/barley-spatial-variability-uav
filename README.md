@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21798804.svg)](https://doi.org/10.5281/zenodo.21798804)
 # Barley spatial variability and UAV analysis
 
 Reproducible workflow for spatial variability analysis integrating soil properties, crop traits, geostatistics, treatment effects, point-pattern analysis, and UAV-derived vegetation indices in barley experimental plots.
